@@ -25,7 +25,8 @@ A passionate **Cloud & DevOps Engineer** from Pune, India. I specialize in **AWS
 ---
 
 📌 **Pinned Projects:**  
-- [🚀 AWS CI/CD Pipeline](https://github.com/KiranRathod/aws-ci-cd)  
-- [☁️ Terraform AWS Deployment](https://github.com/KiranRathod/terraform-aws)  
+.
+.
+.
 
-📫 **Let's connect on [LinkedIn](https://linkedin.com/in/kiranrathod)!**  
+📫 **Let's connect on [LinkedIn](https://www.linkedin.com/in/kiran-rathod-328a01219/)!**  
